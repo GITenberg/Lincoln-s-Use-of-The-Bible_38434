@@ -1,0 +1,28 @@
+_repo: Lincoln-s-Use-of-The-Bible_38434
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38434-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jackson, S. Trevena
+    alias: Jackson, Samuel Trevena
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '39467'
+    url: http://www.gutenberg.org/2009/agents/39467
+description: ''
+gutenberg_issued: '2011-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Literary art'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Religion'
+title: Lincoln's Use of the Bible
+url: http://www.gutenberg.org/ebooks/38434
